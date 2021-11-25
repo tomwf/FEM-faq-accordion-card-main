@@ -36,7 +36,7 @@ html {
 
 body {
   background: linear-gradient(var(--soft-violet), var(--soft-blue)) no-repeat;
-  height: 850px;
+  min-height: 560px;
 }
 
 .wrapper {
